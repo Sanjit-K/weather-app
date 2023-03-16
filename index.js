@@ -35,3 +35,5 @@ navigator.geolocation.getCurrentPosition(position => {
   });
 
 
+  //test
+
